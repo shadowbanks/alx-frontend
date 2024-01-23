@@ -45,7 +45,7 @@
     --button-hover-text-decoration: none;
     --button-hover-background: var(--color-primary);
     --header-padding: 4rem 0 0;
-    --header-logo-postion: relative;
+    --header-logo-position: relative;
     --header-logo-link-display: inline-block;
     --header-logo-link-position: absolute;
     --header-logo-link-top: -1rem;
@@ -442,7 +442,7 @@ ul.row {
 }
 
 .header-logo {
-    position: var(--header-logo-postion);
+    position: var(--header-logo-position);
 }
 
 .header-logo a {
